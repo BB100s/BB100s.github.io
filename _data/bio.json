@@ -78,15 +78,13 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Manoa Student Housing Services",
+      "position": "Residential Assistant",
+      "website": "https://manoa.hawaii.edu/housing/",
+      "startDate": "2021-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Ensures the safety and upholding community standards of student housing",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
