@@ -88,15 +88,13 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UH Manoa Art Department",
+      "position": "Art Gallery Attendant",
+      "website": "https://hawaii.edu/art/exhibitions-events-museum/",
+      "startDate": "2019-10-23",
+      "endDate": "2021-05-15",
+      "summary": "Greeting and answering questions of guests. Also ensuring the safety and wellbeing of both guests and artwork",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
