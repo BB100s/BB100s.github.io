@@ -25,12 +25,16 @@
   "interests": [
     {
       "name": "Music",
-      "keywords": [
+      "keywords": 
+      "Classical",
+      "Alternative Rock"[
       ]
     },
     {
       "name": "Gaming",
-      "keywords": [
+      "keywords": 
+      "Video"
+      "Board"[
       ]
     },
     {
