@@ -65,12 +65,14 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Management Information Systems (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-08-26",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.24",
       "courses": [
+        "BUS 312-315",
+        "ITM 352"
       ]
     }
   ],
