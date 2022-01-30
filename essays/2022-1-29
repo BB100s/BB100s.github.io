@@ -1,0 +1,23 @@
+---
+layout: essay
+type: essay
+title: WOD Trouble Shooting
+# All dates must be YYYY-MM-DD format!
+date: 2022-1-29
+labels:
+  - WOD
+  - New Learning Experience
+---
+
+When I opened the file for BrowserHistory1, I had no clue what to expect. To be honest when I read the instructions, it took me a while to read it over and over again to process
+what I had just read. After finally realizing what I had to do, I got started. It started off smooth and it took a little bit of time to actually make the vs code for the paragraphs
+to look pleasing. Everything went well until I got to the link references, which I admit stumped me the first time. It took a google search to figure out what the link href was
+and then I went on. My first attempt was the trial and error and the 2nd attempt I forgot to hit the timer button so 3rd times the charm I guess with a time of 18:34.
+
+For BrowserHistory2 it was a similar kind of run. The first time I had trouble with the font-family code because I didn't realize it was single quotes. The next THREE TIMES I did it
+perfectly, but my screen recording app decided to bug out on me all three times. It recorded a black screen everytime and I had to restart my computer to fix it which gave me a total
+of 5 times with a time of 3:19. BrowserHistory3 was a lot similar to BrowserHistory2 in the sense of my screen recording app bugging out. A lot of these things in this specific
+WOD reminded me of one of my previous projects in ICS 101. Making the text and images wrap were pretty easy but the table of contents confused me for a little bit. When I did the
+code, it did not come out exactly like the end result. That part specifically stumped me so much, I had to go to the screencast and see what I was doing wrong. Turned out I was missing
+a little piece in my code which fixed the entire thing. After fixing that I got it in 2 attempts with a time of 7:13.
+
