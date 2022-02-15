@@ -1,0 +1,21 @@
+---
+layout: essay
+type: essay
+title: WOD Invoice1
+# All dates must be YYYY-MM-DD format!
+date: 2022-2-14
+labels:
+  - WOD
+  - Continuous Learning
+---
+
+After being in this class for a bit, I have a bit more understanding of the WODs and what is expected of us. The WOD we just did was Invoice1 which was basically creating
+and displaying a sales display invoice for products sold. To see more detail please visit: https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html
+
+This WOD was a lot easier than expected for me, which is a little surprising. I took two attempts because during the first take I forgot that I had to use back ticks for the 
+document.write code which I paused for like three minutes to figure out. The second time around went much smoother and I actually made the RX <20 minutes time. Since I was a CS major
+I have done a lot of code that is very similar to what we are doing in this class. This class actually made me want to go back into my past codes I've written to refresh my memory
+and give me inspiration for this WOD. I definitely improved from the last WODs in many aspects, especially with my screen recording app that I have changed to OBS now which makes
+this whole process much easier. Next time I will definitely need to read up a little more on the smaller details and also try to memorize a little of the table creation code, so 
+hopefully when I do make tables, I can use my code instead of using code given to us.
+
